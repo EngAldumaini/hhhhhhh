@@ -8,5 +8,8 @@ int main()
     cout << "Favorite Language: C++" << endl;
     cout << "Mini Challenge Completed!" << endl;
 
+    // Add learning goal
+    cout << "Learning Goal: Master Git and GitHub" << endl;
+
     return 0;
 }
